@@ -14,7 +14,7 @@ print(studentIds.keys())
 
 print(studentIds.values())
 print(studentIds.items())
-print(len(studentIds))
+# print(len(studentIds))
 
 
 fruits = ['apples', 'oranges', 'pears', 'bananas']
